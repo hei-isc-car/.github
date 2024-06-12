@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./img/hei-en.png" alt="HEI-Vs Logo" width="350">
+  <img src="./../img/hei-en.png" alt="HEI-Vs Logo" width="350">
   <br>
   HEI-Vs Engineering School - CAr Computer Architecture
   <br>
